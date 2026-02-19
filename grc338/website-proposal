@@ -1,0 +1,119 @@
+<!doctype html>  
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+         <link rel="stylesheet" type="text/css" href="https://grc-ribeiro.github.io/files/proposal.css">  <!-- Leave this line as is. -->
+        <title>Isabella Ragan - Final project proposal</title>
+    
+    </head>
+    <body>
+    
+        <div class="container">
+        
+            <h1>Final project proposal</h1>
+            
+            <h2>Introduction</h2>
+            
+            <p>Bella's Baked Goods </p>
+            
+            <p>Bella's Baked Goods is a bakery that offers various homemade baked goods for purchase. Some of these products include pastries, breads, treats, and coffee! </p>
+            
+            <h2>Target audience</h2>
+            
+            <p>People who are hunger and want to eat baked goods and coffee are the target consumers. </p>
+           
+            <p>The goal of the consumers is to be able to navigate the bakery website to order items, view the menu, and view company info. </p><!-- What are their primary task and goals? -->
+            
+            <h2>Comparative analysis</h2>
+
+            
+            <h3>House Of Bread</h3>
+           
+            <p><a href="https://houseofbread.com/">houseofbread.com</a></p>
+            
+            <img src="hobmenu.png" alt="Screenshot of the Menu page of the House Of Bread website." title="Menu" />
+            
+            <img src="hobhome.png" alt="Screenshot of the Home page of the House Of Bread website." title="Home" />
+
+            <h3>Pardon My French</h3>
+           
+            <p><a href="https://pardonmyfrenchslo.com/">pardonmyfrenchslo.com</a></p>
+            
+            <img src="pmfcontact1.png" alt="Screenshot of the Contact page of the Pardon My French website." title="Contact" />
+            
+            <img src="pmfcontact2.png" alt="Screenshot of the Contact page of the Pardon My French website." title="Contact" />
+
+
+            <h3>Bread Bike</h3>
+           
+            <p><a href="https://www.slobreadbike.com/">slobreadbike.com</a></p>
+            
+            <img src="bbhome.png" alt="Screenshot of the Home page of the Bread Bike Bakery website." title="Home" />
+            
+            <img src="bbmenu.png" alt="Screenshot of the Menu page of the Bread Bike Bakery website." title="Menu" />
+
+
+            <h2>Website content</h2>
+           <nav>
+                 <ul>
+                    <li>Home</li>
+                    <li>Menu</li>
+                    <li>Contact</li>
+                    <li>About</li>
+                    <li>Location</li>
+                </ul>
+            </nav>
+            
+            <section>
+            
+					<h1>Home</h1>
+				
+					<p>Bella's Baked Goods, Life's Better with Bella's</p>
+			  
+					<p>Picture of baked goods displayed in a case</p>
+				
+            </section>
+            
+            <section>
+            
+					<h1>About</h1>
+				
+					<p>Bella's Baked Goods is a small business that makes baked goods: including breads, pastries, sweets, and coffee. Our goal is to share delcious food while providing a cozy environment with the community.</p>
+			  
+					<p>Picture of coffee cup</p>
+				
+            </section>
+            
+            <section>
+            
+					<h1>Contact</h1>
+				
+					<p>Number, Email</p>
+			  
+					<p>Picture of bread loaves</p>
+				
+            </section>
+         
+            <section>
+            
+					<h1>Menu</h1>
+				
+					<p>Pastries: Plain Croissant $4, Chocolate Croissant $4.25, Socnes $4, Cookies $4; Bread: Bagel Options $5, Loaves of Bread Options $12, Muffins $5, Pumpkin Banana or Lemon Bread Slice $4, Coffee: Esspresso Drinks: Americano $3.25, Mocha $5, Latte $4, Cappuccino $4, Black $3, Added Flavor +$1</p>
+			  
+					<p>Pictures of various bakery items and coffee we sell such as pastries, breads, sweets next to descriptions</p>
+				
+            </section>
+            
+            <section>
+            
+					<h1>Location</h1>
+				
+					<p>906 Lemon Ave, San Luis Obispo 93401, Hours: Mon-Fri 7am-9pm, Saturday 8am-5pm</p>
+			  
+					<p>Picture of ouside front view of bakery</p>
+				
+            </section>
+        </div>
+    </body>
+</html>
